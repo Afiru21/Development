@@ -4,9 +4,11 @@
 # Table of Contents
 -[Introduction](#introduction)
 
--[Identification of user requirements](#Identification of user requirements)
+-[Requirements](#requirements)
 
+-[Designs](#designs)
 
+-[Options](#options)
 
 -[Section 1](#section-1)
 
