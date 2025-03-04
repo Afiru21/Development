@@ -43,6 +43,12 @@ The target audience for the site is people who have completed training courses o
 
 
 # alternative design options
+*These are some alternative design options for the web pages*
+
+
+# Technical documentation
+*This is my technical documentation*
+
 
 
 
