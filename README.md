@@ -14,7 +14,7 @@
 
 # Introduction
 *This is an intorduction to my project*
-  
+
 I have recently joined a web development company, Hot Beans Web as a junior web developer. I have been asked as part of your induction and training to create a new section for the company’s web site which promotes the company to prospective employees, as they need to recruit more web developers.
 
 
