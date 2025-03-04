@@ -42,6 +42,7 @@ The target audience for the site is people who have completed training courses o
 
 I used draw.io to help me create this viusula design for the web pages.
 
+**Justifications of the visual designs decisions**
 
 
 # alternative design options
