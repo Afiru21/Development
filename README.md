@@ -6,15 +6,11 @@
 
 -[Identification-of-user-requirements](#Identification-of-user-requirements)
 
--[Designs](#designs)
+-[Visual-designs-for-web-pages](#visual-designs-for-web-pages)
 
--[Options](#options)
+-[Alternative-design-options](#alternative-design-options)
 
--[Section 1](#section-1)
-
--[Section 2](#section-2)
-
--[section 3](#section-3)
+-[Technical-documentation](#technical-documentation)
 
 # Introduction
 *This is an intorduction to my project*
@@ -36,7 +32,6 @@ The company wants me to include the following things:
 The target audience for the site is people who have completed training courses or qualifications related to web development and are now looking for a job as a web developer.
 
 
-
 # Visual designs for web pages
 **Wireframes**
 
@@ -45,13 +40,12 @@ I used draw.io to help me create this viusula design for the web pages.
 **Justifications of the visual designs decisions**
 
 
-# alternative design options
+# Alternative design options
 *These are some alternative design options for the web pages*
 
 Alternative options : 
 - Adobe XD
   
-
 
 # Technical documentation
 *This is my technical documentation*
