@@ -23,15 +23,12 @@ You have recently joined a web development company, Hot Beans Web as a junior we
 
 The company wants you to include the following things:
 
--A profile of the company itself
+- A profile of the company itself
+- Profiles of existing trainee web developers
+- Job specifications and required qualifications
+- An on-line application form
+- Links to web development courses
 
--profiles of existing trainee web developers
-
--job specifications and required qualifications
-
--an on-line application form
-
--links to web development courses
 
 The target audience for the site is people who have completed training courses or qualifications related to web development and are now looking for a job as a web developer.
 
