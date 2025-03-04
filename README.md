@@ -23,8 +23,7 @@ I have recently joined a web development company, Hot Beans Web as a junior web 
 
 
 # Identification of user requirements 
-
-- These are the user requirements for the project
+*These are the user requirements for the project*
 
 The company wants me to include the following things:
 
@@ -39,8 +38,7 @@ The target audience for the site is people who have completed training courses o
 
 
 # Visual designs for web pages
-
-- Wireframes
+**Wireframes**
 
 
 
