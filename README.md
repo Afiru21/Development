@@ -40,10 +40,16 @@ The target audience for the site is people who have completed training courses o
 # Visual designs for web pages
 **Wireframes**
 
+I used draw.io to help me create this viusula design for the web pages.
+
 
 
 # alternative design options
 *These are some alternative design options for the web pages*
+
+Alternative options : 
+- Adobe XD
+  
 
 
 # Technical documentation
