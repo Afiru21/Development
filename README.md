@@ -12,7 +12,7 @@
 
 -[Technical-documentation](#technical-documentation)
 
--[Justification_of-design-decision-made](#justification-of-design-decision-made)
+-[Justification-of-design-decision-made](#justification-of-design-decision-made)
 
 
 # Introduction
@@ -52,6 +52,10 @@ Alternative options :
 
 # Technical documentation
 *This is my technical documentation*
+
+
+# Justification of design decision made
+*This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
 
 
