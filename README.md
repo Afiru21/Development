@@ -55,6 +55,10 @@ Home page wireframe
 
 ![Home](https://github.com/user-attachments/assets/c9de935e-d097-4245-91bc-77bf26ccbbc9)
 
+Home page second option for wireframe 
+
+![Home2](https://github.com/user-attachments/assets/b4c62ee1-0179-4416-ac18-b708404d4cda)
+
 About us page wireframe
 
 ![AboutUs](https://github.com/user-attachments/assets/2905b16e-ccd5-46f3-ac75-0d5fa39225ef)
