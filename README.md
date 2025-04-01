@@ -47,6 +47,12 @@ The company wants me to include the following things:
 
 The target audience for the site is people who have completed training courses or qualifications related to web development and are now looking for a job as a web developer.
 
+### The client requirements
+1 Company profile : 
+- The website will have to clearly present an overview of the company in this case Hot Beans Web, in which it will be described  and defined the company’s mission,its values, and even what makes it a great workplace for web developers.
+
+
+
 
 ## Visual designs for web pages
 **Wireframes**
