@@ -83,7 +83,7 @@ Alternative options :
 # Evaluation of the design and development of the website
 *This is an evaluation of the design and development of the website.*
 
-# Evidence of individual responsability, effective time- management including a time plan and witness testimony from your tutor.
+# Evidence of individual responsability, effective time management including a time plan and witness testimony from your tutor.
 *Thiese are some evidence that showcase my individual responsability and time nmanagement.*
 
 
