@@ -51,7 +51,20 @@ The target audience for the site is people who have completed training courses o
 
 I used draw.io to help me create this viusula design for the web pages.
 
+Home page wireframe
+
+![Home](https://github.com/user-attachments/assets/c9de935e-d097-4245-91bc-77bf26ccbbc9)
+
+About us page wireframe
+
+![AboutUs](https://github.com/user-attachments/assets/2905b16e-ccd5-46f3-ac75-0d5fa39225ef)
+
+Our service page wireframe
+
+![OurServices](https://github.com/user-attachments/assets/9032b383-510e-43ea-a0df-0d59456a26f1)
+
 Contact us page wireframe
+
 ![ContactUs](https://github.com/user-attachments/assets/66c73b56-7931-44e6-ab7e-9758cdaeeaa2)
 
 **Justifications of the visual designs decisions**
