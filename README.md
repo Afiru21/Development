@@ -75,6 +75,21 @@ Contact us page wireframe
 
 **Justifications of the visual designs decisions**
 
+**Color scheme and Typography choices**
+
+The logo
+
+![TheLogo](https://github.com/user-attachments/assets/9561d80f-470c-49a4-ac51-01fee3825e06)
+
+I utilised the logo to get an extract gradient from it 
+
+![ExtractGradient1](https://github.com/user-attachments/assets/009e31c6-f1f8-4014-8077-83716b9f968f)
+
+![ExtractGradient2](https://github.com/user-attachments/assets/e07e7c99-baf2-4be7-b226-60843b9eaeaf)
+
+
+
+
 
 ## Alternative design options
 *These are some alternative design options for the web pages*
