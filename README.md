@@ -26,15 +26,15 @@
 
 -[Evidence-of-individual-responsability-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor](#evidence-of-individual-responsability-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor)
 
-## Design documentation
+# Design documentation
 
-# Introduction
+## Introduction
 *This is an intorduction to my project*
 
 I have recently joined a web development company, Hot Beans Web as a junior web developer. I have been asked as part of your induction and training to create a new section for the company’s web site which promotes the company to prospective employees, as they need to recruit more web developers.
 
 
-# Identification of user requirements 
+## Identification of user requirements 
 *These are the user requirements for the project*
 
 The company wants me to include the following things:
@@ -48,7 +48,7 @@ The company wants me to include the following things:
 The target audience for the site is people who have completed training courses or qualifications related to web development and are now looking for a job as a web developer.
 
 
-# Visual designs for web pages
+## Visual designs for web pages
 **Wireframes**
 
 I used draw.io to help me create this viusula design for the web pages.
@@ -76,31 +76,36 @@ Contact us page wireframe
 **Justifications of the visual designs decisions**
 
 
-# Alternative design options
+## Alternative design options
 *These are some alternative design options for the web pages*
 
 Alternative options : 
 - Adobe XD
   
 
-# Technical documentation
+## Technical documentation
 *This is my technical documentation*
 
+# Development justification 
 
-# Justification of design decision made
+## Justification of design decision made
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
-# Screenshots of the completed website
+## Screenshots of the completed website
 *These are some screen shoots of mt completed website*
 
-# Test plans
+# Testing documentation
+
+## Test plans
 *These are some test case for testing my website for functionality,compatibility, and usability.*
 
-# User feedbacks 
+## User feedbacks 
 *These are some user feedbacks on the website I created.*
 
 # Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
+
+
 
 # Evaluation of the design and development of the website
 *This is an evaluation of the design and development of the website.*
