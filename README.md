@@ -66,6 +66,18 @@ The target audience for the site is people who have completed training courses o
 Target audience :
 - The primary target audience for this website  are people who have recently completed a web development training or courses and are looking for job opportunities as web developers role. This type of audience is most  likely gonna be tech-savvy and wanting to grow further  their careers into web development.
 
+### Plan to Meet Client Requirements :
+**User Requirements Identification:**
+- The website will have to attract and catch a specific user group’s attention, so its important for me to understand their needs. Based on the client requirements I have  identified the following needs in the website:
+A clear and informative company profile: this is needed because users will have  to be able to  easily understand who Hot Beans Web is and why it’s a beneficial place to work at.
+- An easy access to Job openings:  this is needed because users should be able to quickly find some relevant job listings and understand the qualifications needed for that job.
+- A simple and intuitive application form: this is needed because the form should be easy for the user  to fill out, which will also ensure a smooth application process for the user.
+- Resources for career development: links to  varius web development courses need to be easily accessible and helpful for the  users who want to improve their skills and qualifications.
+- Mobile and browser compatibility: The website needs to be functional across all  vaius devices and browsers to be able to attract users on various platforms.
+- A visually appealing design: The website design should be modern, clean, and professional, which would surely appeal all the potential candidates looking for a tech-savvy employer.
+
+
+
 ## Visual designs for web pages
 **Wireframes**
 
