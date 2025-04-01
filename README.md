@@ -24,7 +24,7 @@
 
 -[Evaluation-of-the-design-and-development-of-the-website](#evaluation-of-the-design-and-development-of-the-website)
 
--[Evidence-of-individual-responsability-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor](#evidence-of-individual-responsability,-effective-time-management-including-a-time-management-and-witness-testimony-from-your-tutor)
+-[Evidence-of-individual-responsability-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor](#evidence-of-individual-responsability-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor)
 
 # Introduction
 *This is an intorduction to my project*
