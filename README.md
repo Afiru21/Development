@@ -14,10 +14,17 @@
 
 -[Justification-of-design-decision-made](#justification-of-design-decision-made)
 
+-[Screenshots-of-the-completed-website](#screenshots-of-the-completed-website)
+
 -[Test-plans](#test-plans)
 
 -[User-feedbacks](#user-feedbacks)
 
+-[Screenshots-of-the-optimised-website](#screenshots-of-the-optimised-website)
+
+-[Evaluation-of-the-design-and-development-of-the-website](#evaluation-of-the-design-and-development-of-the-website)
+
+-[Evidence-of-individual-responsability,-effective-time-management-including-a-time-plan-and-witness-testimony-from-your-tutor](#evidence-of-individual-responsability,-effective-time-management-including-a-time-management-and-witness-testimony-from-your-tutor)
 
 # Introduction
 *This is an intorduction to my project*
@@ -61,13 +68,21 @@ Alternative options :
 # Justification of design decision made
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
+# Screenshoots of the completed website
+
 # Test plans
 
 
 # User feedbacks 
 
 
+# Screenshoots of the optimised website
 
+
+# Evaluation of the design and development of the website
+
+
+# Evidence of individual responsibility, effective time- management including a time plan and witness testimony from your tutor.
 
 
 
