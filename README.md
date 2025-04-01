@@ -68,7 +68,7 @@ Alternative options :
 # Justification of design decision made
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
-# Screenshoots of the completed website
+# Screenshots of the completed website
 *These are some screen shoots of mt completed website*
 
 # Test plans
@@ -77,7 +77,7 @@ Alternative options :
 # User feedbacks 
 *These are some user feedbacks on the website I created.*
 
-# Screenshoots of the optimised website
+# Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
 
 # Evaluation of the design and development of the website
