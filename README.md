@@ -14,6 +14,10 @@
 
 -[Justification-of-design-decision-made](#justification-of-design-decision-made)
 
+-[Test-plans](#test-plans)
+
+-[User-feedbacks](#user-feedbacks)
+
 
 # Introduction
 *This is an intorduction to my project*
@@ -56,6 +60,14 @@ Alternative options :
 
 # Justification of design decision made
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
+
+# Test plans
+
+
+# User feedbacks 
+
+
+
 
 
 
