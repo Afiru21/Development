@@ -69,21 +69,22 @@ Alternative options :
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
 # Screenshoots of the completed website
+*These are some screen shoots of mt completed website*
 
 # Test plans
-
+*These are some test case for testing my website for functionality,compatibility, and usability.*
 
 # User feedbacks 
-
+*These are some user feedbacks on the website I created.*
 
 # Screenshoots of the optimised website
-
+*These are some screen shots of my otimised  website.*
 
 # Evaluation of the design and development of the website
-
+*This is an evaluation of the design and development of the website.*
 
 # Evidence of individual responsibility, effective time- management including a time plan and witness testimony from your tutor.
-
+*Thiese are some evidence that showcase my individual responsability and time nmanagement.*
 
 
 
