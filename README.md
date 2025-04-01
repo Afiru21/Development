@@ -87,6 +87,10 @@ I utilised the logo to get an extract gradient from it
 
 ![ExtractGradient2](https://github.com/user-attachments/assets/e07e7c99-baf2-4be7-b226-60843b9eaeaf)
 
+the color palette 
+
+![ColorPalette](https://github.com/user-attachments/assets/46f40c56-8ffc-4721-ba4b-036981178178)
+
 
 
 
