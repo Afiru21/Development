@@ -63,7 +63,8 @@ The target audience for the site is people who have completed training courses o
 5 Links to web development courses:
 - I should also include a  list of recommended web development courses and resources in order  to guide the  prospective applicants into trying to  improve their skills and qualifications futhermore.
 
-
+Target audience :
+- The primary target audience for this website  are people who have recently completed a web development training or courses and are looking for job opportunities as web developers role. This type of audience is most  likely gonna be tech-savvy and wanting to grow further  their careers into web development.
 
 ## Visual designs for web pages
 **Wireframes**
