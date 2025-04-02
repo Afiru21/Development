@@ -105,6 +105,12 @@ Contact us page wireframe
 
 **Justifications of the visual designs decisions**
 
+**User flow diagrams**
+*User Flow Diagrams – Explain how users will navigate through your website.*
+
+![User Flow Diagram drawio](https://github.com/user-attachments/assets/4b44fc7b-bc03-4818-b7ad-8bad6171ab45)
+
+
 **Color scheme and Typography choices**
 
 The logo
