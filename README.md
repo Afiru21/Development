@@ -50,15 +50,15 @@ The target audience for the site is people who have completed training courses o
 ### The client requirements:
 <ins>Company profile</ins> - The website will have to clearly present an overview of the company in this case Hot Beans Web, in which it will be described  and defined the company’s mission,its values, and even what makes it a great workplace for web developers.
 
-Profiles of existing trainee web developers : it s important to try to highlight the experience and even the  backgrounds of current trainee web developers in the website   in order to give potential applicants some  insight into the company’s culture and opportunities its  for growth.
+<ins>Profiles of existing trainee web developers</ins> : it s important to try to highlight the experience and even the  backgrounds of current trainee web developers in the website   in order to give potential applicants some  insight into the company’s culture and opportunities its  for growth.
 
-Job specifications and equired qualifications : In the website I should consider writing a  detailed job descriptions for the  open web development positions available at the moment at the company, I should also include the required qualifications, skills, and responsibilities they will have on the job.
+<ins>Job specifications and equired qualifications</ins> : In the website I should consider writing a  detailed job descriptions for the  open web development positions available at the moment at the company, I should also include the required qualifications, skills, and responsibilities they will have on the job.
 
-Online application form : I will have to include in the website an online form where the prospective applicants would be able to submit their applications directly through the website, which should be able to capture the  applicant personal details, qualifications, work experience, and a link to their portfolio.
+<ins>Online application form</ins> : I will have to include in the website an online form where the prospective applicants would be able to submit their applications directly through the website, which should be able to capture the  applicant personal details, qualifications, work experience, and a link to their portfolio.
 
-Links to web development courses : I should also include a  list of recommended web development courses and resources in order  to guide the  prospective applicants into trying to  improve their skills and qualifications futhermore.
+<ins>Links to web development courses</ins> : I should also include a  list of recommended web development courses and resources in order  to guide the  prospective applicants into trying to  improve their skills and qualifications futhermore.
 
-Target audience : The primary target audience for this website  are people who have recently completed a web development training or courses and are looking for job opportunities as web developers role. This type of audience is most  likely gonna be tech-savvy and wanting to grow further  their careers into web development.
+<ins>Target audience</ins> : The primary target audience for this website  are people who have recently completed a web development training or courses and are looking for job opportunities as web developers role. This type of audience is most  likely gonna be tech-savvy and wanting to grow further  their careers into web development.
 
 ### Plan to Meet Client Requirements :
 **User Requirements Identification:**
