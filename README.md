@@ -217,3 +217,8 @@ Self-Management: Before even thinking about asking for a peer review, I would co
 - Usability Check: Navigating through the site as if I were a prospective applicant. Is anything confusing? Is the information easy to find?
 - Accessibility Check : Ensuring images have tags, form fields have labels, and basic navigation works.
 
+#### Review Phase "Geeting a Feedback" : 
+- Responsibility: Once I was  satisfied with my self-review, I requested feedback from my peers. I shared my design documentation and got suggestions on how to improve my work. 
+- Effective Self-Management: I'd approach feedback constructively. Instead of defending my choices, I'd listen carefully, ask clarifying questions, and prioritize the feedback based on impact and effort. I'd then create a plan to address the feedback points, demonstrating my ability to iterate and improve.
+
+
