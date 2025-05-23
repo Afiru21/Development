@@ -155,7 +155,7 @@ This section outlines the technologies, structure, and development consideration
 ![Screenshot 2025-05-23 112614](https://github.com/user-attachments/assets/c6637134-bba6-4362-860d-b17392d67fba)
 
 #### Accessibility Considerations :
-- I will use appropriate HTML5 tags like  "<header>", "<nav>", "<main>", "<article>", "<section>", "<footer>", "<form>" in my website code.
+- I will use appropriate HTML5 tags like  header, nav, main , article , section, footer, form in my website code.
 - I will make sure to use the alt attributes for all images.
 - I will make sure that all the interactive elements like buttons, links, form fields are easily  navigable for the user.
 - I will have to include visual interactive  elements which users  focus on.
