@@ -307,6 +307,16 @@ Based on this feedback I recived on my design documetation for the website I ide
 # Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
 
+#### About us page
+![image](https://github.com/user-attachments/assets/3c4a3563-4e50-4cee-9a0d-0ff42f271a56)
+
+![image](https://github.com/user-attachments/assets/2286e606-0151-4977-ac59-0a56fc5b8739)
+
+![image](https://github.com/user-attachments/assets/f3fe794e-7c75-4630-93a0-41fcd4c986e4)
+
+
+#### Contact us page
+![image](https://github.com/user-attachments/assets/78d856a1-70a3-4f2d-a491-72d651101da1)
 
 
 # Evaluation of the design and development of the website
