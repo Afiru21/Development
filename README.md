@@ -18,6 +18,8 @@
 
 -[Test-plans](#test-plans)
 
+-[Review](#review)
+
 -[User-feedbacks](#user-feedbacks)
 
 -[Screenshots-of-the-optimised-website](#screenshots-of-the-optimised-website)
@@ -125,9 +127,6 @@ I utilised the logo to get an extract gradient from it
 For the headings I am planning to use the font “Montserrat” in order to give the website a more modern, bold, clean look.
 For the body text on the other way I am planning to utilise the font “Open Sans”  in order to make the website more easy to  read, as well as more professional as possible.
 
-
-
-
 ## Alternative design options
 The alternative design option I come up for the website  is having a more minimalist design,which means  relying  mostly on large images and very short phrases and text. 
 
@@ -139,9 +138,7 @@ The disadvantage of this alternative design option is that the website design wi
 
 ### My original design :
 The reason I  have chosen my original design over this alternative design option is because it would create a balance between the visual elements and the clear and concise text which will ensure that all the  required information is readily available without overwhelming the user, while still  providing a professional and informative experience for the viewer/user.
-
   
-
 ## Technical documentation
 This section outlines the technologies, structure, and development considerations.
 #### Technologies : 
@@ -163,8 +160,7 @@ This section outlines the technologies, structure, and development consideration
 - I will have to make sure there is sufficient color contrast between the text and background for  better readability for the user.
 - I will have to assign proper labels with their corresponding form fields.
 
-
-
+  
 
 # Development justification 
 
@@ -198,6 +194,33 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 ## Test plans
 *These are some test case for testing my website for functionality,compatibility, and usability.*
+
+## Review
+* This my personal review on the extent to which the website I created meets client requirements.*
+
+Based on the scenario I was provided and the list of requirements for the features the website needed to have , my planning of the design  and the  development of the Hot Beans Web recruitment section showcase my clear understanding of the client's needs and aims to fully  meet them.
+Here's a review of how the website I created  is able to meet each one of the client requirement:
+
+#### A profile of the company:
+I was able to meet the client requirement for creating a  profile of the company itself in which I included content covering Hot Beans Web's history, values, mission, and a general overview of its services.
+This will  provide prospective employees with the essential information about who Hot Beans Web is, which in turn will help them to understand the company before trying to  apply for the job. This page  is really important for attracting candidates who align with the company's goals.
+
+#### Profiles of Existing Trainee Web Developers:
+I was able to meet the client requirement for creating profiles of the existing trainee web developers,I have created individual sections for each trainee, featuring their name, photo, and a brief description of their role, experience at Hot Beans, and their journey into web development. This element is crucial for the target audience since it offers them some relatable successful stories and a glimpse into their  day-to-day life and growth opportunities within the company, making the prospect of joining more appealing for the audience and furthermore it helps to foster trust.
+
+#### Job Specifications and Required Qualifications :
+I was able to meet the client requirement for creating job specifications and required qualifications for joining the company. The website  showcases detailed descriptions for the  available web developer roles, outlining their responsibilities, expected skills, technologies used, and academic/professional qualifications. This is an important requirement for any recruitment site since it makes sure that the  candidates understand what is expected of them and helps them understand if they have the required skills, which then helps Hot Beans to attract qualified applicants.
+
+#### An On-line Application Form : 
+I was able to meet the client requirement for creating An On-line Application Form, this is a crucial interactive component, since allows the audience to send their application forms directly from the website by entering input in the  fields for personal details, contact information, relevant experience, qualifications, and  file uploads for resumes/cover letters. This helps the audience by giving them a direct, efficient, and modern method for candidates to apply, eliminating manual processes and making it convenient for the target audience (who are most likely tech-savvy and prefer online interaction). 
+
+#### Links to Web Development Courses : 
+I was able to meet the client requirement for creating a section for the links to web development courses , offering this way some resources for learning web development.This demonstrates Hot Beans Web commitment to fostering talent and learning, which can attract the target audience (individuals who have completed training or qualifications). It shows that Hot Beans Web supports  the audience  growth in web development , even for those who might need to refresh up on their  skills or learn new ones before or during their employment. It also poetry the company as a helpful resource in the web development community.
+
+#### Conclusion 
+The website I created still meets its intended purpose which is to help Hot Beans Web recruit web developers to join the company and it also meets the client's requirements. The website design clearly  shows the necessary content and interactive elements. Furthermore, considering the target audience (web development job seekers), the  trainee profiles and course links make the website functional and  creates an engaging and supportive environment that positively welcomes prospective employees.
+
+
 
 ## Feedbacks 
 *This is a feedback on the design documentationn for the website I will create.*
