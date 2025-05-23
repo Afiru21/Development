@@ -201,7 +201,19 @@ Based on this feedback I recived on my design documetation for the website I ide
 # Evidence of individual responsability effective time management including a time plan and witness testimony from your tutor
 *Thiese are some evidence that showcase my individual responsability and time nmanagement.*
 
+As a junior web developer at Hot Beans Web, taking on the task of building the recruitment section requires a proactive approach. Here's how I have demonstrate these key qualities:
 
+#### Design Phase "analysing requirements" :
 
+Responsibility: Before jumping straight  into code, I have carefully analysed and reviewed the client requirements which were developing  : company profile, trainee profiles, job specs/qualifications, online application form, and links to courses. Instead of going first into the coding part I took my time  reading,analysing and inferring on these requirements and thi in my opinion  has demonstrated my  responsibility in  seeking clarity on the project requirements instead of risking missing them by going straight to coding without thinking of the requirements. 
 
+#### Design Phase "wireframes" :
+Self-Management & Creativity: Even as a junior, I have used free tools (like draw io to create the wireframe for the website.  This helped me visualize the layout and flow before starting the  coding. This  shows self-management by planning visually and creativity in exploring different layouts. Additionally I shared my design documentation to get early feedback on how to improve it.
+
+#### Review Phase "self testing" :
+Self-Management: Before even thinking about asking for a peer review, I would conduct my own rigorous testing which includes: 
+- Functional Testing: Clicking every link, submitting the form with valid and invalid data, verifying all content displays.
+- Compatibility Testing: Checking the site on different browsers (Chrome, Firefox, Edge, Safari if possible) and on various screen sizes (desktop, tablet, mobile) using developer tools or actual devices.
+- Usability Check: Navigating through the site as if I were a prospective applicant. Is anything confusing? Is the information easy to find?
+- Accessibility Check : Ensuring images have tags, form fields have labels, and basic navigation works.
 
