@@ -190,6 +190,50 @@ In summary, the website  design choice I made prioritises clarity, professional 
 ## Screenshots of the completed website
 *These are some screen shoots of mt completed website*
 
+#### Home page
+![image](https://github.com/user-attachments/assets/56a494fe-c579-4872-9231-59a2b37518e0)
+
+![image](https://github.com/user-attachments/assets/6c1b5555-8695-4cdb-9872-50437de85a0a)
+
+![image](https://github.com/user-attachments/assets/98750c2f-9dbb-4af2-880c-61ba58f341b1)
+
+![image](https://github.com/user-attachments/assets/1e89a84d-169b-4b1f-8b0a-32c1352872fb)
+
+![image](https://github.com/user-attachments/assets/a86246e7-46eb-4d0f-a174-93ecc1263574)
+
+![image](https://github.com/user-attachments/assets/ee3ff611-23f4-4d5d-9c6a-aa2ed1a90e4f)
+
+#### About us page
+
+![image](https://github.com/user-attachments/assets/740376a9-80f1-4b5e-8178-813d732ecf2f)
+
+![image](https://github.com/user-attachments/assets/8b2bac80-5a98-4cd5-a9b7-5a16a36aa1c8)
+
+![image](https://github.com/user-attachments/assets/60d9b78d-377e-44b5-a2d0-f30417b6a4c5)
+
+![image](https://github.com/user-attachments/assets/a9665b04-78a9-4b92-8b27-795112769d64)
+
+#### Contact us page
+
+![image](https://github.com/user-attachments/assets/88ff62ed-cc12-4e53-923e-f1138f045cc3)
+
+![image](https://github.com/user-attachments/assets/2ae4f469-24fd-40af-95f1-be862fa5d1cf)
+
+#### Privacy policy page
+
+![image](https://github.com/user-attachments/assets/fcbfd7e7-4417-45d1-bdc7-9599974feaed)
+
+![image](https://github.com/user-attachments/assets/63dbda21-b14f-4789-8f14-3300f65cf9df)
+
+##### Job openings page 
+![image](https://github.com/user-attachments/assets/9426f63f-c35e-4434-9e13-b59042f5e262)
+
+![image](https://github.com/user-attachments/assets/317ca536-1dff-495c-ab08-fe942c2f4cb4)
+
+![image](https://github.com/user-attachments/assets/62219243-a348-4c98-9fb6-4c8a2c38ffa2)
+
+![image](https://github.com/user-attachments/assets/533c06dc-0cf8-42ad-b979-28694983e2e2)
+
 # Testing documentation
 
 ## Test plans
