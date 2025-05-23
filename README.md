@@ -130,6 +130,19 @@ the color palette
 
 Alternative options : 
 - Adobe XD
+
+### Alternative design option :
+The alternative design option for this is having a  minimalist design,which means  relying  mostly on large images and very short phrases and text. 
+
+### Advantages :
+The advantage of this alternative design option is that the website design would be more visually appealing, and will feel more modern compared to my original design.
+
+### Disadvantages : 
+The disadvantage of this alternative design option is that the website design will lack the detail needed for the prospective employees in order  to make  decisions based on the information provided which  could lead to the user/viewer needing to scroll down the website more which could potentially lead to a less clear navigation if icons are abstract.
+
+### My original design :
+The reason I  have chosen my original design over this alternative design option is because it would create a balance between the visual elements and the clear and concise text which will ensure that all the  required information is readily available without overwhelming the user, while still  providing a professional and informative experience for the viewer/user.
+
   
 
 ## Technical documentation
