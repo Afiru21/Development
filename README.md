@@ -221,4 +221,8 @@ Self-Management: Before even thinking about asking for a peer review, I would co
 - Responsibility: Once I was  satisfied with my self-review, I requested feedback from my peers. I shared my design documentation and got suggestions on how to improve my work. 
 - Effective Self-Management: I'd approach feedback constructively. Instead of defending my choices, I'd listen carefully, ask clarifying questions, and prioritize the feedback based on impact and effort. I'd then create a plan to address the feedback points, demonstrating my ability to iterate and improve.
 
+#### Conclusion
+By consistently demonstrating my individual responsibility, creativity, and effective self-management throughout this project which is designing and developing a website based on the client requirements, I would be able to successfully complete the task and also demonstrate my skills  as a capable junior web developer at Hot Beans Web.
+
+
 
