@@ -171,6 +171,22 @@ This section outlines the technologies, structure, and development consideration
 ## Justification of design decision made
 *This is my justification of the design decisions I  made, explaining how it will meet the user needs and be fit for purpose.*
 
+The design decisions I made for the website ,which are shown above in the design documentation, are rigorously planned in order to meet the client requirements and making sure that the website I will develop will be fit for its purpose  which is attracting prospective web developers to join  Hot Beans Web.
+
+#### Visual Appeal and Professionalism : 
+- The design has a clean and modern aesthetic thanks to my chosen color palette going from green, blue, grey ,black and white and fonts like Montserrat, Open Sans. The website will have a professional yet dynamic image, and will appeal to the tech-savvy audience. This aspect of my website is capable of addressing the need for a professional and trustworthy appearance, which is crucial for attracting top talent.
+- The website  design has an effective use of imagery from the high-quality images of the office environment, team members, and logo which humanize the company and provide visual context, making the site more engaging and relatable for the users. This will surely  help showcasing the company more effectively to the audience.
+
+#### Meeting the client requirements : 
+Meeting Specific Information Requirements:
+
+- Trainee Profiles: Instead of just text, individual profiles with photos and personal quotes the Trainees  profiles directly address the user's desire for more relatable experiences and give some insight into this  career progression. This is a powerful tool for understanding career paths/opportunities.
+- Detailed Job Descriptions: The job description page  for the opening jobs  is comprehensive and contains the  individual job specs in detail, making sure users get all the necessary information about the job roles, skills, and qualifications,which in my opinion is  directly meeting the need for detailed job information.
+- User-friendly application form: The application form has clear headings and validation checks   which make it easy to use, reducing potential incorrect characters being imputed due to user frustration which also increase the completion rate of the form. Basically This directly streamlines the online application process.
+-  Course Links: The links section for the web development courses helps going  beyond basic job recruitment by offering the audience some  valuable resources to improve their web development skills, this helps demonstrating the audience Hot Beans Web's  serious commitment to employee development and a understanding of the target audience's journey, this in my opinion is able to meet the need for resources for skill enhancement.
+
+
+
 ## Screenshots of the completed website
 *These are some screen shoots of mt completed website*
 
