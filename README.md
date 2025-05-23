@@ -193,7 +193,7 @@ In summary, the website  design choice I made prioritises clarity, professional 
 # Testing documentation
 
 ## Test plans
-*These are some test case for testing my website for functionality,compatibility, and usability.*
+*These are some test case for testing my website for functionality,compatibility, and usability.I used Google Spreadsheet and then took screenshot of the test cases.*
 
 #### Functionality testing 
 
@@ -204,7 +204,18 @@ In summary, the website  design choice I made prioritises clarity, professional 
 ![image](https://github.com/user-attachments/assets/c46f1258-7b99-4cc8-adfc-49489f0c9690)
 
 
+#### Compatibility testing 
 
+![image](https://github.com/user-attachments/assets/090083a1-7b4f-4519-9cd4-94f157f80747)
+
+![image](https://github.com/user-attachments/assets/75ec744f-1157-4971-ac6d-e72aca08cbbf)
+
+
+
+#### Usability testing 
+
+![image](https://github.com/user-attachments/assets/66a0e51d-ed09-4e97-91ae-18d991b9fbc0)
+![image](https://github.com/user-attachments/assets/a8ca3ef5-9c53-4ed8-9084-7297839a158b)
 
 
 
