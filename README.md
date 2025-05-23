@@ -117,10 +117,13 @@ I utilised the logo to get an extract gradient from it
 
 ![ExtractGradient2](https://github.com/user-attachments/assets/e07e7c99-baf2-4be7-b226-60843b9eaeaf)
 
-the color palette 
+### The color palette 
 
 ![ColorPalette](https://github.com/user-attachments/assets/7265a847-e52b-41cb-ad63-2fb32efe538e)
 
+### Typography 
+For the headings I am planning to use the font “Montserrat” in order to give the website a more modern, bold, clean look.
+For the body text on the other way I am planning to utilise the font “Open Sans”  in order to make the website more easy to  read, as well as more professional as possible.
 
 
 
