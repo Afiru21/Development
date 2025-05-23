@@ -178,13 +178,17 @@ The design decisions I made for the website ,which are shown above in the design
 - The website  design has an effective use of imagery from the high-quality images of the office environment, team members, and logo which humanize the company and provide visual context, making the site more engaging and relatable for the users. This will surely  help showcasing the company more effectively to the audience.
 
 #### Meeting the client requirements : 
-Meeting Specific Information Requirements:
-
 - Trainee Profiles: Instead of just text, individual profiles with photos and personal quotes the Trainees  profiles directly address the user's desire for more relatable experiences and give some insight into this  career progression. This is a powerful tool for understanding career paths/opportunities.
 - Detailed Job Descriptions: The job description page  for the opening jobs  is comprehensive and contains the  individual job specs in detail, making sure users get all the necessary information about the job roles, skills, and qualifications,which in my opinion is  directly meeting the need for detailed job information.
 - User-friendly application form: The application form has clear headings and validation checks   which make it easy to use, reducing potential incorrect characters being imputed due to user frustration which also increase the completion rate of the form. Basically This directly streamlines the online application process.
 -  Course Links: The links section for the web development courses helps going  beyond basic job recruitment by offering the audience some  valuable resources to improve their web development skills, this helps demonstrating the audience Hot Beans Web's  serious commitment to employee development and a understanding of the target audience's journey, this in my opinion is able to meet the need for resources for skill enhancement.
 
+#### User Experience:
+- Responsiveness : The use of flexible layouts directly ensures responsiveness across different devices.  Given the diverse devices users will utilise it will guarantee a consistent and positive experience regardless of screen size across devices such as mobile phone,tablet and laptop and desktop.
+- Accessibility: my wish to be able to integrate  accessibility best practices from the design phase (semantic HTML, alt text, keyboard navigation) would have ensured the website could have been accessible by a larger audience, which would have reflected a professional and inclusive approach.
+
+#### Conclusion
+In summary, the website  design choice I made prioritises clarity, professional appeal, and ease of use, directly aligning with the needs of the target audience. By providing a comprehensive and intuitive experience, the website aims to effectively promote Hot Beans Web as an attractive employer, ultimately achieving the client's goal of recruiting more web developers.
 
 
 ## Screenshots of the completed website
