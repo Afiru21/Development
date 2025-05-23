@@ -179,8 +179,16 @@ This section outlines the technologies, structure, and development consideration
 ## Test plans
 *These are some test case for testing my website for functionality,compatibility, and usability.*
 
-## User feedbacks 
-*These are some user feedbacks on the website I created.*
+## Feedbacks 
+*This is a feedback on the design documentationn for the website I will create.*
+
+
+![Screenshot 2025-05-23 141626](https://github.com/user-attachments/assets/cf498664-7bd2-4525-9299-b4f3a02b6c29)
+
+#### Identified areas of improvement
+Based on this feedback I recived on my design documetation for the website I identified several areas which could be iprved in order to enchance my website's desifn document. Firstf of alls my design document is well-structured and comprehensive however I could enhance it furthermore by using  consistent heading styles like H1 for main sections, H2 for subsections,using  bullet points for easier readability,making sure  that images and  screenshots are high-quality and annotated to highlight key features, and trying to avoid being repetitive to keep it more engaging.
+
+
 
 # Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
