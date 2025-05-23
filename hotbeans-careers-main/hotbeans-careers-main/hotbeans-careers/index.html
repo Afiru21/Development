@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hot Beans Web Careers</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="bg-dark text-white text-center p-4">
+    <nav class="navbar">
+        <div class="logo">Hot Beans</div>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="jobs.html">Jobs</a></li>
+
+        </ul>
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </nav>
+    <h1>Hot Beans Web Careers</h1>
+    <p>Join our team of passionate web developers!</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#company-profile">About Us</a></li>
+      <li><a href="#developer-profiles">Meet Our Trainee Developers</a></li>
+      <li><a href=" job-specs">Job Specifications</a></li>
+      <li><a href="application-form">Apply Now</a></li>
+      <li><a href="courses">Recommended Courses</a></li>
+    </ul>
+  </nav>
+
+  <section class="container my-5" id="company-profile">
+    <h2>About Us</h2>
+    <p>Hot Beans Web is a forward-thinking web development company focused on creating innovative digital experiences.</p>
+    <img src="images/logo.png" alt="Hot Beans Web Logo" class="img-fluid">
+    <p>Hot Beans Web was established in 2007 by David Wood, who previously held roles in a multi-national business. He saw that there was a potential for a slightly different type of Web Design Agency;
+        David wanted to create a web design agency that could deliver on the fundamentals of providing good quality websites at affordable prices without compromising on quality.
+        Over a decade and a half later, it has proven to be a successful formula; we have seen the business grow year on year for both Hot Beans and our clients. We have our head office in Peterborough and offices in Northampton.
+        
+        Our Trusting Clients
+        Our clients base include many different types and sizes of business, ranging from the sole trader to SME's all the way through to household names.
+        Hot Beans has had direct and indirect development contracts with some of the world's biggest names, including the likes of Belkin, DSG Group, Ingram Micro, Halfords, Nationwide, and Tesco.
+        However, our favourite customers are the ones that embrace a website to help start and develop their businesses. These include local plumbers, builders, electricians, home builders and gardeners.
+        We are always here to help and believe in Givers Gain; if you need any help or advice, we are here to help, and we do not charge for any consultation ever!
+        
+        Our People
+        We are so proud of the people who make Hot Beans who we are. They are a unique set of web designers, web developers, and marketers who come together to deliver on the one shared philosophy: to provide the best solutions for website design to our existing and new customers.
+        The team at Hotbeans is unusually diverse for the web design industry. As a team, we can focus more on our client's objectives and deliver custom web design and development to exceed our customer's expectations every time.
+        
+        We are constantly looking for dedicated new talent, wheather formally qualified or self taught. If you think that is you then please fill out our application form and we can start the conversation.
+        
+        If you like the idea but feel you lack the skills look at our courses page to improve your confidence and technical ability.
+        </p>
+  </section>
+
+  <section class="container my-5" id="developer-profiles">
+    <h2>Meet Our Trainee Developers</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <img src="images/dev1.PNG" class="img-thumbnail" alt="Trainee 1">
+        <h4>Daniel Lecroy</h4>
+        <p>Front-end designer/developer</p>
+        <p>I'm Daniel and probably not the typical designer positioned behind an Illustrator artboard adjusting pixels, but I design.
+            Immersed in stylesheets tweaking font sizes and contemplating layouts is where you'll find me (~_^).</p>
+      </div>
+      <div class="col-md-4">
+        <img src="images/dev2.PNG" class="img-thumbnail" alt="Trainee 2">
+        <h4>Li Chang</h4>
+        <p>Front-End Engineer with a focus on Accessibility</p>
+        <p>Hello! My name is Li and I enjoy creating things that live on the internet. </p>
+      </div>
+      <div class="col-md-4">
+        <img src="images/dev3.PNG" class="img-thumbnail" alt="Trainee 3">
+        <h4>Rosa DeCastello</h4>
+        <p>Web Designer </p>
+        <p>Hi I'm Rosa and I have a real passion for Creative design, I'm never happier than when I'm pushing the envelope of what can be done with HTML and CSS</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container my-5" id="job-specs">
+    <h2>Job Specifications</h2>
+    <ul>
+      <li>Web Developer (Junior)</li>
+      <li>Knowledge of HTML, CSS, JavaScript</li>
+      <li>Preferred: Bootstrap, GitHub, API use</li>
+      <li>Qualifications: Web development course or degree</li>
+    </ul>
+  </section>
+
+  <section class="container my-5" id="application-form">
+    <h2>Apply Now</h2>
+    <form onsubmit="handleSubmit(event)">
+      <div class="mb-3">
+        <label for="name" class="form-label">Full Name</label>
+        <input type="text" class="form-control" id="name" required>
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="email" required>
+      </div>
+      <div class="mb-3">
+        <label for="cv" class="form-label">Upload CV</label>
+        <input type="file" class="form-control" id="cv">
+      </div>
+      <div class="mb-3">
+        <label for="message" class="form-label">Why do you want to join us?</label>
+        <textarea class="form-control" id="message" rows="3"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit Application</button>
+    </form>
+  </section>
+
+
+
+  <section class="container my-5" id="courses">
+    <h2>Recommended Courses</h2>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a></li>
+      <li><a href="https://www.codecademy.com/" target="_blank">Codecademy</a></li>
+      <li><a href="https://www.coursera.org/browse/computer-science/web-development" target="_blank">Coursera Web Development</a></li>
+    </ul>
+  </section>
+
+  <footer class="bg-dark text-white text-center p-3">
+    <p>&copy; 2025 Hot Beans Web.All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
