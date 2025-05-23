@@ -126,13 +126,7 @@ the color palette
 
 
 ## Alternative design options
-*These are some alternative design options for the web pages*
-
-Alternative options : 
-- Adobe XD
-
-### Alternative design option :
-The alternative design option for this is having a  minimalist design,which means  relying  mostly on large images and very short phrases and text. 
+The alternative design option I come up for the website  is having a more minimalist design,which means  relying  mostly on large images and very short phrases and text. 
 
 ### Advantages :
 The advantage of this alternative design option is that the website design would be more visually appealing, and will feel more modern compared to my original design.
