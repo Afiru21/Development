@@ -195,6 +195,22 @@ In summary, the website  design choice I made prioritises clarity, professional 
 ## Test plans
 *These are some test case for testing my website for functionality,compatibility, and usability.*
 
+#### Functionality testing 
+
+![image](https://github.com/user-attachments/assets/7be063e7-0e04-4665-b890-eda95aaa803f)
+
+![image](https://github.com/user-attachments/assets/7c47a845-992d-42ff-8834-58ef024f98cc)
+
+![image](https://github.com/user-attachments/assets/c46f1258-7b99-4cc8-adfc-49489f0c9690)
+
+
+
+
+
+
+
+
+
 ## Review
 * This my personal review on the extent to which the website I created meets client requirements.*
 
