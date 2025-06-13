@@ -99,6 +99,32 @@ Contact us page wireframe
 
 ![ContactUs](https://github.com/user-attachments/assets/66c73b56-7931-44e6-ab7e-9758cdaeeaa2)
 
+
+I used Figma  to help me create this viusual mockup design for the web pages.
+
+Home page mockup 
+
+![image](https://github.com/user-attachments/assets/734b8a5c-5d0e-4b0a-81fb-a32aec0389d2)
+
+![image](https://github.com/user-attachments/assets/86744eb0-cb97-49c4-87d8-46f0d995fbcd)
+
+![image](https://github.com/user-attachments/assets/e4476bd6-5c6a-4f11-879d-8e3103acddf5)
+
+About  page mockup 
+
+![image](https://github.com/user-attachments/assets/68e4ddd6-bfed-4949-a4c9-3276636670bc)
+
+![image](https://github.com/user-attachments/assets/3406fd42-c5e3-462a-acc7-7264b233801d)
+
+![image](https://github.com/user-attachments/assets/6a7b41f7-3e69-4782-88bb-868160efed16)
+
+Contact page mockup 
+
+![image](https://github.com/user-attachments/assets/96ef7373-37df-442d-8eb6-a0c318cbfe2b)
+
+![image](https://github.com/user-attachments/assets/e15d0bbd-1937-4f67-ad9c-c8ac02af1c00)
+
+
 **Justifications of the visual designs decisions**
 
 **User flow diagrams**
