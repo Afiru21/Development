@@ -124,6 +124,14 @@ Contact page mockup
 
 ![image](https://github.com/user-attachments/assets/e15d0bbd-1937-4f67-ad9c-c8ac02af1c00)
 
+Privacy  page mockup
+
+![image](https://github.com/user-attachments/assets/b30fe42a-d09b-4575-b619-819ecb5ec30e)
+
+Jobs  page mockup
+
+![image](https://github.com/user-attachments/assets/b49d888a-9041-44f6-bdb2-2f90387f2a4e)
+
 
 **Justifications of the visual designs decisions**
 
