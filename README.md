@@ -361,6 +361,10 @@ This website was tested successfully on:
 
 I can say that the website  layout adapts correctly using responsive CSS
 
+## Optimisation and Improvements Made
+
+The only thing I changed in my optimised version of the website is the image size of the trainees on the “About” page.
+
 
 ##  Strengths and areas of  improvement
 
