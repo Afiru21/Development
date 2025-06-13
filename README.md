@@ -338,8 +338,30 @@ This website is suitable for the target audience because :
 - The layout is mobile-responsive, which addresses the needs of users who may have to  access the website via phone or tablet.
 - The inclusion of the  developer profiles and training resources such as links to websites for them to improve their skills  directly captivate users who are looking for their first break or ongoing learning.
 
+## Functionality and usability
 
+The website clearly  functions correctly and is able to provide a smooth user experience. 
 
+The reason for this is that : 
+
+- All of the major features such as navigation, forms, and  job listings  work as expected.
+- The buttons, links, and form inputs have been  tested and are perfectly functional.
+- There is also HTML5 validation that helps prevent users from leaving an  incomplete application form. 
+- There are accessibility features included such as some clear headings.
+- The usability tests performed on the website have  confirmed that users could find key information easily as well as submitting the application  forms without confusion.
+
+## Cross-Browser and device compatibility
+
+This website is visually and functionally consistent across different  devices and browsers.
+
+This website was tested successfully on:
+- Browsers: Chrome, and Edge
+- Devices: Windows laptop,  Android phone, and tablet
+I can say that the website  layout adapts correctly using responsive CSS
+
+## Conclusion
+
+The final optimised website for Hot Beans Web effectively meets all of the  client requirements and is able to  provides a professional, user-friendly experience tailored for junior web developers. Through multiple design iterations, user testing, and targeted optimisations, the website has became more functional, accessible, and visually engaging. In my opinion the client goals were fully met, and the project stands as a suitable and reliable recruitment tool for Hot Beans Web.
 
 
 
