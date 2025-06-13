@@ -322,6 +322,11 @@ Based on this feedback I recived on my design documetation for the website I ide
 # Evaluation of the design and development of the website
 *This is an evaluation of the design and development of the website.*
 
+
+
+
+
+
 # Evidence of individual responsability effective time management including a time plan and witness testimony from your tutor
 *Thiese are some evidence that showcase my individual responsability and time nmanagement.*
 
