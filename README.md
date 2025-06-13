@@ -357,11 +357,28 @@ This website is visually and functionally consistent across different  devices a
 This website was tested successfully on:
 - Browsers: Chrome, and Edge
 - Devices: Windows laptop,  Android phone, and tablet
+
+
 I can say that the website  layout adapts correctly using responsive CSS
+
+
+##  Strengths and areas of  improvement
+
+### Strengths of the website :
+- It fully meets all of the client and user requirements
+- The design its clean, has a professional layout with effective use of space
+- Its easy to navigate on different devices such as laptop.mobile phones and tablets
+- The layout is responsive in different browsers such as Chrome , and Edge
+- It has been optimised based on feedback and self testing
+
+### Areas for further  improvement:
+- I should consider adding backend integration to store or email applications
+- I should consider adding testimonials or video content to enhance the trust and engagement from users 
+- I should consider improving accessibility with keyboard navigation
 
 ## Conclusion
 
-The final optimised website for Hot Beans Web effectively meets all of the  client requirements and is able to  provides a professional, user-friendly experience tailored for junior web developers. Through multiple design iterations, user testing, and targeted optimisations, the website has became more functional, accessible, and visually engaging. In my opinion the client goals were fully met, and the project stands as a suitable and reliable recruitment tool for Hot Beans Web.
+The final optimised website for Hot Beans Web effectively meets all of the  client requirements and is able to  provide a professional, user-friendly experience tailored for junior web developers. Through multiple design iterations, user testing, and targeted optimisations, the website has become more functional, accessible, and visually engaging. In my opinion the client goals were fully met, and the project stands as a suitable and reliable recruitment tool for Hot Beans Web.
 
 
 
