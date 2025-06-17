@@ -341,16 +341,33 @@ Based on this feedback I recived on my design documetation for the website I ide
 # Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
 
+#### Home page
+
+![image](https://github.com/user-attachments/assets/b66ed516-b860-40b4-9056-c3117ff14e44)
+
+![image](https://github.com/user-attachments/assets/3208c314-c680-4238-a2be-ff6e047b6759)
+
+![image](https://github.com/user-attachments/assets/8bfb3804-d5f7-4c5f-b54d-9c7a0f86cd44)
+
+![image](https://github.com/user-attachments/assets/ff8c4c3e-0b73-4706-8a5d-87c3f7d17166)
+
+![image](https://github.com/user-attachments/assets/314aed05-3f76-497b-9cdb-1945128638cc)
+
 #### About us page
-![image](https://github.com/user-attachments/assets/3c4a3563-4e50-4cee-9a0d-0ff42f271a56)
 
-![image](https://github.com/user-attachments/assets/2286e606-0151-4977-ac59-0a56fc5b8739)
 
-![image](https://github.com/user-attachments/assets/f3fe794e-7c75-4630-93a0-41fcd4c986e4)
+
+
+
 
 
 #### Contact us page
-![image](https://github.com/user-attachments/assets/78d856a1-70a3-4f2d-a491-72d651101da1)
+
+
+#### Privacy page
+
+
+#### jobs page
 
 
 # Evaluation of the design and development of the website
