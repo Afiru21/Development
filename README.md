@@ -225,48 +225,48 @@ In summary, the website  design choice I made prioritises clarity, professional 
 *These are some screen shoots of mt completed website*
 
 #### Home page
-![image](https://github.com/user-attachments/assets/56a494fe-c579-4872-9231-59a2b37518e0)
 
-![image](https://github.com/user-attachments/assets/6c1b5555-8695-4cdb-9872-50437de85a0a)
+![image](https://github.com/user-attachments/assets/361f545a-6934-42dd-9725-cdeb1b6e6faa)
 
-![image](https://github.com/user-attachments/assets/98750c2f-9dbb-4af2-880c-61ba58f341b1)
+![image](https://github.com/user-attachments/assets/4e9c4580-07e3-4dc2-b726-5989e6432757)
 
-![image](https://github.com/user-attachments/assets/1e89a84d-169b-4b1f-8b0a-32c1352872fb)
+![image](https://github.com/user-attachments/assets/d21891e3-904c-4226-91e6-f27601c8f1d8)
 
-![image](https://github.com/user-attachments/assets/a86246e7-46eb-4d0f-a174-93ecc1263574)
+![image](https://github.com/user-attachments/assets/9ef6306a-fd94-4401-b24a-5a96a02c607e)
 
-![image](https://github.com/user-attachments/assets/ee3ff611-23f4-4d5d-9c6a-aa2ed1a90e4f)
 
 #### About us page
 
-![image](https://github.com/user-attachments/assets/740376a9-80f1-4b5e-8178-813d732ecf2f)
+![image](https://github.com/user-attachments/assets/752fe628-c8cd-4309-b580-894c95eb0c20)
 
-![image](https://github.com/user-attachments/assets/8b2bac80-5a98-4cd5-a9b7-5a16a36aa1c8)
+![image](https://github.com/user-attachments/assets/9db63464-a060-4a87-9d63-c637d2f7d414)
 
-![image](https://github.com/user-attachments/assets/60d9b78d-377e-44b5-a2d0-f30417b6a4c5)
-
-![image](https://github.com/user-attachments/assets/a9665b04-78a9-4b92-8b27-795112769d64)
+![image](https://github.com/user-attachments/assets/4c358459-e2e5-4aaf-9990-af74c705c70b)
 
 #### Contact us page
 
-![image](https://github.com/user-attachments/assets/88ff62ed-cc12-4e53-923e-f1138f045cc3)
+![image](https://github.com/user-attachments/assets/50c87f1b-d698-4a49-ad77-eb27a2a82cc0)
 
-![image](https://github.com/user-attachments/assets/2ae4f469-24fd-40af-95f1-be862fa5d1cf)
+![image](https://github.com/user-attachments/assets/d4228964-240b-45a2-a9fc-620e34015767)
 
 #### Privacy policy page
 
-![image](https://github.com/user-attachments/assets/fcbfd7e7-4417-45d1-bdc7-9599974feaed)
+![image](https://github.com/user-attachments/assets/364ac983-2858-45f5-af35-2cc1b55064f8)
 
-![image](https://github.com/user-attachments/assets/63dbda21-b14f-4789-8f14-3300f65cf9df)
+![image](https://github.com/user-attachments/assets/0442ed7d-f8d1-4b86-8338-71060fc9b5dd)
 
 ##### Job openings page 
-![image](https://github.com/user-attachments/assets/9426f63f-c35e-4434-9e13-b59042f5e262)
 
-![image](https://github.com/user-attachments/assets/317ca536-1dff-495c-ab08-fe942c2f4cb4)
+![image](https://github.com/user-attachments/assets/f9427eb7-211d-4832-bef6-f186c1070c99)
 
-![image](https://github.com/user-attachments/assets/62219243-a348-4c98-9fb6-4c8a2c38ffa2)
+![image](https://github.com/user-attachments/assets/24fc7ecb-3aab-4be8-b532-da705c557159)
 
-![image](https://github.com/user-attachments/assets/533c06dc-0cf8-42ad-b979-28694983e2e2)
+![image](https://github.com/user-attachments/assets/be1aa377-98bb-49ac-b893-aa168d6f9a07)
+
+![image](https://github.com/user-attachments/assets/499e0789-b351-4329-832b-edc991f907ff)
+
+![image](https://github.com/user-attachments/assets/9ce74b1e-3472-4576-b94b-52f68e239d48)
+
 
 # Testing documentation
 
