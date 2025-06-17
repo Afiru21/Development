@@ -121,7 +121,8 @@
                             <div class="card-body">
                                 <h3 class="card-title text-center mb-4">Online Application Form</h3>
                                 <p class="text-center text-muted mb-4">Complete the form below to apply for our web development trainee program or other open positions.</p>
-                                <form id="jobApplicationForm" novalidate>
+                                <form id="jobApplicationForm" novalidate action="/submit-form-endpoint" method="POST">
+
                                     <div class="mb-3">
                                         <label for="fullName" class="form-label">Full Name <span class="text-danger">*</span></label>
                                         <input type="text" class="form-control" id="fullName" placeholder="Your Name" required>
