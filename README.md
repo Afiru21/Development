@@ -77,7 +77,7 @@ A clear and informative company profile: this is needed because users will have 
 ## Visual designs for web pages
 **Wireframes**
 
-I used draw.io to help me create this viusula design for the web pages.
+I used draw.io to help me create this viusual designs for the website pages.
 
 Home page wireframe
 
@@ -100,7 +100,7 @@ Contact us page wireframe
 ![ContactUs](https://github.com/user-attachments/assets/66c73b56-7931-44e6-ab7e-9758cdaeeaa2)
 
 
-I used Figma  to help me create this viusual mockup design for the web pages.
+I used Figma  to help me create thess viusual mockup designs for the website  pages.
 
 Home page mockup 
 
@@ -136,7 +136,7 @@ Jobs  page mockup
 **Justifications of the visual designs decisions**
 
 **User flow diagrams**
-*User Flow Diagrams – Explain how users will navigate through your website.*
+* – Explain how users will navigate through your website.*
 
 ![User Flow Diagram drawio](https://github.com/user-attachments/assets/4b44fc7b-bc03-4818-b7ad-8bad6171ab45)
 
@@ -222,7 +222,7 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 
 ## Screenshots of the completed website
-*These are some screen shoots of mt completed website*
+*These are some screen shoots of my completed website*
 *this is the link to  my website prototype : https://afiru21.github.io/Development/hotbeans-careers-main/hotbeans-careers-main/hotbeans-careers/index.html *
 
 #### Home page
@@ -329,7 +329,7 @@ The website I created still meets its intended purpose which is to help Hot Bean
 
 
 ## Feedbacks 
-*This is a feedback on the design documentationn for the website I will create.*
+*This is a feedback on the design documentationn for the website I  created.*
 
 
 ![Screenshot 2025-05-23 141626](https://github.com/user-attachments/assets/cf498664-7bd2-4525-9299-b4f3a02b6c29)
@@ -450,8 +450,7 @@ I can say that the website  layout adapts correctly using responsive CSS
 
 ## Optimisation and Improvements Made
 
-The only thing I changed in my optimised version of the website is the image size of the trainees on the “About” page.
-
+The only thing I changed in my optimised version of the website is  the layout in order to make it more appealing but of course I made sure to let the colors remains the same.
 
 ##  Strengths and areas of  improvement
 
