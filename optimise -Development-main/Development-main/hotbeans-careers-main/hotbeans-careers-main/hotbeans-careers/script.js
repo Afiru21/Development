@@ -3,21 +3,20 @@ function handleSubmit(event) {
     alert('Thank you for applying! We will review your application shortly.');
   }
   
-document.getElementById('jobApplicationForm').addEventListener('submit', function(event) {
-    event.preventDefault(); // prevent default submit so you can validate or do something custom
 
-    // Example basic validation: check required fields
+document.getElementById('jobApplicationForm').addEventListener('submit', function(event) {
+    event.preventDefault(); // prevent default submit so we can validate and show confirmation
+
     const form = event.target;
+
+    // Trigger Bootstrap validation styles
     if (!form.checkValidity()) {
         form.classList.add('was-validated');
-        return;
+        return; // stop submission if form is invalid
     }
 
-    // Form is valid, you can submit it via AJAX or actually submit it
-    // For example, just show an alert or do actual submit:
-    alert('Form submitted successfully!');
+    // If we get here, form is valid
+    alert('Thank you for applying! We will review your application shortly.');
 
-    // If you want to submit normally (refresh page and POST), remove event.preventDefault()
-    // or call form.submit() here.
-
+    
 });
