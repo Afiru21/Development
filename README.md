@@ -223,6 +223,7 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 ## Screenshots of the completed website
 *These are some screen shoots of mt completed website*
+*this is the link to  my website prototype : https://afiru21.github.io/Development/hotbeans-careers-main/hotbeans-careers-main/hotbeans-careers/index.html *
 
 #### Home page
 
@@ -340,6 +341,7 @@ Based on this feedback I recived on my design documetation for the website I ide
 
 # Screenshots of the optimised website
 *These are some screen shots of my otimised  website.*
+*this is the link to the optimised version of my website : https://afiru21.github.io/Development/optimise%20-Development-main/Development-main/hotbeans-careers-main/hotbeans-careers-main/hotbeans-careers/index.html *
 
 #### Home page
 
@@ -373,6 +375,24 @@ Based on this feedback I recived on my design documetation for the website I ide
 
 
 #### Privacy page
+
+![image](https://github.com/user-attachments/assets/d47c6574-1759-41a8-9bb1-1304cb7d722c)
+
+![image](https://github.com/user-attachments/assets/a74adf33-72bb-485b-b70b-729c77d32c79)
+
+![image](https://github.com/user-attachments/assets/e4b6da4f-04a0-440e-99fa-e7e50c4f0318)
+
+![image](https://github.com/user-attachments/assets/8e194af8-9259-4cbc-9160-242b363b0d76)
+
+![image](https://github.com/user-attachments/assets/a8e4fd79-c51e-4926-a660-acda71c3c7c2)
+
+![image](https://github.com/user-attachments/assets/59cb2333-fb17-482e-846e-7227746acbb1)
+
+
+![image](https://github.com/user-attachments/assets/4b2108b4-f0ad-4bc0-a636-d37a43c0a129)
+
+
+![image](https://github.com/user-attachments/assets/76fc9651-531b-4e29-b73f-9c5a1a76b28e)
 
 
 #### jobs page
