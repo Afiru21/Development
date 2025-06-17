@@ -133,10 +133,8 @@ Jobs  page mockup
 ![image](https://github.com/user-attachments/assets/b49d888a-9041-44f6-bdb2-2f90387f2a4e)
 
 
-**Justifications of the visual designs decisions**
-
 **User flow diagrams**
-* – Explain how users will navigate through your website.*
+* Explain how users will navigate through your website.*
 
 ![User Flow Diagram drawio](https://github.com/user-attachments/assets/4b44fc7b-bc03-4818-b7ad-8bad6171ab45)
 
