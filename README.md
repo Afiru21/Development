@@ -355,19 +355,35 @@ Based on this feedback I recived on my design documetation for the website I ide
 
 #### About us page
 
+![image](https://github.com/user-attachments/assets/70e11f1b-7177-4e76-b830-f12938a05182)
 
+![image](https://github.com/user-attachments/assets/5d81cb10-dab2-4431-98a4-7c56ac632795)
 
+![image](https://github.com/user-attachments/assets/56e4883b-4d0b-40d3-b8cc-2d2a1bb8dfcf)
 
-
-
+![image](https://github.com/user-attachments/assets/65e3edfd-9305-4901-9dbf-243c3ebbc63c)
 
 #### Contact us page
+
+![image](https://github.com/user-attachments/assets/d5a8ac51-1593-49f8-ab55-d89baeb34de6)
+
+![image](https://github.com/user-attachments/assets/8ece248c-f023-4788-b8d7-cb6c461cf10c)
+
+![image](https://github.com/user-attachments/assets/cdb84f90-87ff-4392-84cd-2cf0ccef8fa8)
 
 
 #### Privacy page
 
 
 #### jobs page
+
+![image](https://github.com/user-attachments/assets/a85af5a8-ea8d-4f00-ae1a-2670070cb1e9)
+
+![image](https://github.com/user-attachments/assets/0f9962bb-4a52-4c30-956f-045bcd11e408)
+
+![image](https://github.com/user-attachments/assets/0275b6ba-ebc2-4a22-a1d5-16277d35256a)
+
+![image](https://github.com/user-attachments/assets/ec71fe43-7fc2-4ac7-90c1-1b360cbdcd84)
 
 
 # Evaluation of the design and development of the website
