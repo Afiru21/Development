@@ -232,7 +232,7 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 ![image](https://github.com/user-attachments/assets/d21891e3-904c-4226-91e6-f27601c8f1d8)
 
-![image](https://github.com/user-attachments/assets/9ef6306a-fd94-4401-b24a-5a96a02c607e)
+![image](https://github.com/user-attachments/assets/0e63a132-1496-4204-8515-7108b7ecd852)
 
 
 #### About us page
