@@ -9,9 +9,41 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #333;
-    color: white;
+    color: coral;
     padding: 0.5em 1em;
   }
+
+.navbar-brand {
+    font-family: var(--font-heading);
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--white-color) !important;
+}
+
+.navbar-nav .nav-link {
+    color: var(--white-color) !important;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 1.05rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.15);
+    color: var(--primary-color) !important;
+}
+
+/* Hamburger Icon for Mobile (Bootstrap's default takes care of most of it) */
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.8%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
   
   .logo {
     font-size: 1.5em;
@@ -21,9 +53,13 @@ body {
     margin-top: 30px;
     color: black;
   }
+
+  h3 {color: black;}
+
+  h4 {color: black;}
   
   img.img-thumbnail {
-    height: 200px;
+    height: 400px;
     object-fit: cover;
   }
   
@@ -32,12 +68,70 @@ body {
   
 
   img {
-    width: 50%;
-    border-radius: 50%;
+    width: 60%;
+    border-radius: 60%;
   }
 
   a {
     color: coral;
   }
+
+  p {color: black;}
   
-  
+  .feature-card {
+    aspect-ratio: 1 / 1; /* Makes it square */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc; /* Optional: visual border */
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    transition: transform 0.3s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+}
+
+.card-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: coral;
+}
+/* Style for service cards to give them a more square-like appearance */
+.service-card {
+    /* Keep existing styles */
+    background-color: var(--white); /* Assuming --white is your white color variable */
+    border: 1px solid var(--border-color); /* Assuming --border-color is defined */
+    border-radius: 0.5rem;
+    padding: 2rem;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%; /* Already there, ensures equal height in rows */
+
+    /* New or updated styles for square effect */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pushes content to top/bottom, if applicable */
+    align-items: center; /* Centers content horizontally */
+    
+    /* Optional: Fixed height for a more strict square, adjust as needed */
+    /* This might crop content if it's too long, so test carefully. */
+    /* If you uncomment this, adjust the padding above as well to fit content */
+    /* min-height: 250px; 
+    max-height: 300px; */ 
+
+    /* A more flexible way to achieve a 'square' look, especially with equal width columns: */
+    /* Utilize padding-bottom percentage for aspect ratio, if desired, but flexbox is often simpler here. */
+}
+
+/* Ensure the icon within the card is also well-sized */
+.service-card .card-icon {
+    font-size: 3rem; /* Adjust icon size as desired */
+    color: var(--primary-color); /* Assuming --primary-color is defined */
+    margin-bottom: 1rem;
+}
+
