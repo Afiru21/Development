@@ -479,9 +479,9 @@ The only thing I changed in my optimised version of the website is  the layout i
 ### Optimisation I made for the home page  
 
 #### Structure and accessibility 
-Before the home page code had multiple <nav> and <section> tags without a consistent hierarchy. This means it lacked the  proper use of aria attributes and labels.
-This is part of my optimization. In the code I tried to implement a clearer and more semantic HTML5 structure  with  "<header>, <main>, <section>, <footer>" tags.
-Additionally I also have improved the  form accessibility with proper label, aria-*, and required fields.
+Before the home page code had multiple nav and section tags without a consistent hierarchy. This means it lacked the  proper use of aria attributes and labels.
+This is part of my optimization. In the code I tried to implement a clearer and more semantic HTML5 structure  with  header, main, section, footer tags.
+Additionally I also have improved the  form accessibility with proper label, aria-, and required fields.
 Furthermore I added the viewport meta tag for a better  responsiveness:
 
 ##### Navigation bar 
