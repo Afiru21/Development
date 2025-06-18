@@ -45,10 +45,6 @@ body {
     color: coral;
   }
 
-.profile-pic {
-  border-radius: 50%;
-  object-fit: cover; /* keeps image centered & zoomed if needed */
-}
 
   
   
