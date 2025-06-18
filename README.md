@@ -162,22 +162,27 @@ For the body text on the other way I am planning to utilise the font “Open San
 ## Alternative design options
 The alternative design option I come up for the website  is having a more minimalist design,which means  relying  mostly on large images and very short phrases and text. 
 
-home pahe
+home page
+
 ![image](https://github.com/user-attachments/assets/dcbd7ff2-5f08-407f-abd4-f0b6630d8ab9)
 
 about page
+
 ![image](https://github.com/user-attachments/assets/edfd4e82-3729-47a8-b680-2b79be0f313f)
 
 
 contact page
+
 ![image](https://github.com/user-attachments/assets/0f83b5f7-c9ff-4136-9ff5-c2e8c048c57e)
 
 
 privacy page
+
 ![image](https://github.com/user-attachments/assets/dddb57e3-1822-4307-9641-489643ff8937)
 
 
 jobs page
+
 ![image](https://github.com/user-attachments/assets/3f4c3490-13a6-4498-9419-8d9b5cdcdf50)
 
 
