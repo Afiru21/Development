@@ -271,28 +271,30 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 #### Contact us page
 
-![image](https://github.com/user-attachments/assets/1a8a411c-258c-4d68-b149-5d8bc0b743e3)
+![image](https://github.com/user-attachments/assets/0242c5ac-2c2d-455b-bec4-12afbdbc3365)
 
-![image](https://github.com/user-attachments/assets/9656bbc7-13cd-443e-ba97-b2ea38fa09f0)
+![image](https://github.com/user-attachments/assets/b7f7f00d-108e-4b5a-84fa-84b1fa7b2c6c)
+
 
 
 #### Privacy policy page
 
-![image](https://github.com/user-attachments/assets/364ac983-2858-45f5-af35-2cc1b55064f8)
+![image](https://github.com/user-attachments/assets/579b83b6-ad03-4389-8839-eab7947faedf)
 
-![image](https://github.com/user-attachments/assets/0442ed7d-f8d1-4b86-8338-71060fc9b5dd)
+![image](https://github.com/user-attachments/assets/46c8f293-e392-45fa-9e0e-4560ee416aca)
+
 
 ##### Job openings page 
 
-![image](https://github.com/user-attachments/assets/f9427eb7-211d-4832-bef6-f186c1070c99)
+![image](https://github.com/user-attachments/assets/4a060b4b-9560-4832-8c0b-103602ed3e4b)
 
-![image](https://github.com/user-attachments/assets/24fc7ecb-3aab-4be8-b532-da705c557159)
+![image](https://github.com/user-attachments/assets/0cc7ec63-55d0-4bd7-9b38-ba6347fe2f5f)
 
-![image](https://github.com/user-attachments/assets/be1aa377-98bb-49ac-b893-aa168d6f9a07)
+![image](https://github.com/user-attachments/assets/7d7d375d-412f-4152-a028-813d2a96f971)
 
-![image](https://github.com/user-attachments/assets/499e0789-b351-4329-832b-edc991f907ff)
+![image](https://github.com/user-attachments/assets/9894cb2f-4263-498c-b90c-22c6043fa8c0)
 
-![image](https://github.com/user-attachments/assets/9ce74b1e-3472-4576-b94b-52f68e239d48)
+
 
 
 # Testing documentation
