@@ -255,24 +255,26 @@ In summary, the website  design choice I made prioritises clarity, professional 
 
 ![image](https://github.com/user-attachments/assets/4e9c4580-07e3-4dc2-b726-5989e6432757)
 
-![image](https://github.com/user-attachments/assets/d21891e3-904c-4226-91e6-f27601c8f1d8)
+![image](https://github.com/user-attachments/assets/23aeb875-ceae-4f45-8a5e-dcf11b9c50c6)
 
-![image](https://github.com/user-attachments/assets/0e63a132-1496-4204-8515-7108b7ecd852)
+![image](https://github.com/user-attachments/assets/8d94df64-10ec-4378-afe4-72d79122e53a)
 
 
 #### About us page
 
-![image](https://github.com/user-attachments/assets/752fe628-c8cd-4309-b580-894c95eb0c20)
+![image](https://github.com/user-attachments/assets/a2c0254f-df79-4073-a1c4-447f61e1876e)
 
-![image](https://github.com/user-attachments/assets/9db63464-a060-4a87-9d63-c637d2f7d414)
+![image](https://github.com/user-attachments/assets/c4cb17c5-478e-45fa-abbe-6a3a6da7a71b)
 
-![image](https://github.com/user-attachments/assets/4c358459-e2e5-4aaf-9990-af74c705c70b)
+![image](https://github.com/user-attachments/assets/408058c6-5049-4963-8212-5d143ba3d359)
+
 
 #### Contact us page
 
-![image](https://github.com/user-attachments/assets/50c87f1b-d698-4a49-ad77-eb27a2a82cc0)
+![image](https://github.com/user-attachments/assets/1a8a411c-258c-4d68-b149-5d8bc0b743e3)
 
-![image](https://github.com/user-attachments/assets/d4228964-240b-45a2-a9fc-620e34015767)
+![image](https://github.com/user-attachments/assets/9656bbc7-13cd-443e-ba97-b2ea38fa09f0)
+
 
 #### Privacy policy page
 
