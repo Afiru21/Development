@@ -476,6 +476,122 @@ I can say that the website  layout adapts correctly using responsive CSS
 
 The only thing I changed in my optimised version of the website is  the layout in order to make it more appealing but of course I made sure to let the colors remains the same.
 
+### Optimisation I made for the home page  
+
+#### Structure and accessibility 
+Before the home page code had multiple <nav> and <section> tags without a consistent hierarchy. This means it lacked the  proper use of aria attributes and labels.
+This is part of my optimization. In the code I tried to implement a clearer and more semantic HTML5 structure  with  <header>, <main>, <section>, <footer>. tags.
+Additionally I also have improved the  form accessibility with proper label, aria-*, and required fields.
+Furthermore I added the viewport meta tag for a better  responsiveness:
+
+##### Navigation bar 
+Before the home page  had a custom,but non-functional hamburger menu with no actual toggle behavior.
+This is why in my optimization I added Bootstrap's responsive navbar with a  collapse functionality. Thanks to this improvement the navigation is now mobile-friendly and accessible.
+
+#### Visual design and layout
+Before  the home page had a basic layout using raw Bootstrap without much styling.
+This means there were minimal icons  or visual appeal to the page.
+This is why in my optimization I added Google Fonts (Montserrat, Open Sans) for modern typography. I also used Bootstrap Icons for a more visually appealing UI (bi bi-gear-fill, etc.). Then I added styled buttons with icons and padding.
+I also created a consistent section spacing, text-center, text-white, and layout alignment for having an improved aesthetics.
+
+#### Content Organization
+Before   the home page had long blocks of text dumped into a single <p> tag in the About section.Basically it did not have a section separation or visual cues.
+After the optimisation I made I broke up the long text into smaller and more manageable paragraphs. I added "hero", "services", and "about teaser" sections in order to have better readability and UX. Furthermore I added clear call-to-actions (CTAs) such as  "Join Our Team", "Learn More".
+
+#### Form Optimization
+Before the home page had a basic form without validation feedback. It had only name, email, and CV upload fields.
+After the optimisation it becomes a full-featured form having : input validation, error feedback with invalid-feedback, additional fields like phone, position selection,privacy policy consent checkbox, user guidance text for file uploads.
+
+####  Performance and best practices  
+Before  the home page had no optimization for fonts or icons and I only used images and custom nav.
+After  the optimization it became loaded with fonts from Google,I also used CDN-based Bootstrap Icons.
+
+#### Footer Enhancement
+Before the home page  no footer was included.
+After the optimisation it has now a well-structured and styled footer, I also included copyright. And a link to the Privacy and Contact pages
+
+### Optimisation I made for the about page  
+These are the optimizations I made on the About page code:
+
+Semantic HTML5 structure - I used meaningful HTML5 elements like <header>, <main>, <section>, and <footer>, to improve accessibility and SEO.
+
+Bootstrap CDN and responsive design - I usedU Bootstrap 5.3 via CDN to ensure a fast-loading framework with responsive grid classes (container, row, col-lg-6, etc.) that adapt well across different devices.
+
+Efficient font loading - I preconnected to Google fonts domains (fonts.googleapis.com and fonts.gstatic.com) to speed up font loading
+
+Icon usage via CDN -  Bootstrap Icons are loaded via CDN, avoiding bundling extra icon files and reducing the page weight.
+
+Optimized images - I used  .PNG images with appropriate alt attributes and Bootstrap classes like img-fluid to ensure the images scale properly and improve accessibility.
+
+Clean and  organized navigation - The navbar is structured with proper ARIA attributes and a collapsible toggler for mobile usability.
+
+Modals for team member profiles - I used Bootstrap modals to show detailed team info, enhancing UX without impacting page load significantly.
+
+Minimal external dependencies - I only loaded essential CSS and JS files from CDNs and a single local stylesheet/script, trying to keep resource loading minimal.
+
+Consistent use of utility classes-  You use Bootstrap spacing and text utility classes (py-5, mb-4, text-center, etc.) to avoid custom CSS bloat.
+
+Accessibility enhancements - I used ARIA roles and attributes (e.g., aria-current, aria-label, modal roles) in order to improve accessibility for screen readers.
+
+### Optimisation I made for the contact page  
+What I optimized :
+
+Modern, responsive bootstrap navbar - I used Bootstrap’s built-in responsive navbar with toggler button and collapse for mobile views. I added meaningful ARIA attributes for accessibility (aria-controls, aria-expanded, aria-label).
+I included a logo image with proper alt text and size for branding.
+
+Improved typography and fonts - I imported Google Fonts (Montserrat and Open Sans) for a more  modern and consistent look. I enhanced the overall typography with readable font choices.
+
+Better visual hierarchy and layout - I added a hero section with centered heading, subtitle, and office image to engage visitors immediately. I used the Bootstrap grid system (container, row, col-lg-7, col-lg-5) for having a clean two-column layout on larger screens. I also had cards with shadows (shadow-lg) in order to create a professional feeling to the form and contact info.
+
+Enhanced contact form -  I used Bootstrap form classes (form-control, form-label, mb-3) for uniform styling and spacing. I added more input fields (e.g., Subject) for the audience inquiries.
+I included client-side validation feedback with Bootstrap’s validation classes (invalid-feedback) for user-friendly error messages. I made the submit button styled with Bootstrap button classes and an icon (bi bi-send-fill).
+
+Detailed contact information section - I visually enhanced the contact details with Bootstrap Icons (address, email, phone). The contact details links use mailto: and tel: protocols for easy interaction.I added social media icons with Bootstrap Icons for wider engagement opportunities.
+
+Embedded Google Map - I added an interactive Google Map iframe with Bootstrap’s responsive ratio utility in order  to maintain aspect ratio across devices. I included a note to clarify the map is for demo, showing good communication.
+
+Consistent footer design - after the optimisation the footer is visually separated with a dark background, centered text, and links styled with subtle colors for readability. Additionally there are Privacy and contact links included for easy navigation.
+
+Performance and accessibility - I added preconnect hints for Google Fonts to optimize the font loading speed.  I properly used semantic HTML elements such as (header, main, section, footer). I also made some accessibility improvements in form and navbar (labels, ARIA).
+
+### Optimisation I made for the privacy page  
+What I optimized :
+
+Use of Bootstrap CDN -  I have loaded Bootstrap CSS and JS from a CDN in order to have faster loading and caching.
+
+Preconnect for Google Fonts - I used <link rel="preconnect"> to optimize the font loading performance.
+
+Semantic HTML structure - I clearly  used  <header>, <main>, <section>, <footer> and proper headings <h1>, <h2>, <h3>. This will  improve accessibility and SEO.
+
+Responsive navigation - The Bootstrap navbar toggler with collapse for mobile-friendly navigation is implemented correctly.
+
+Use of icons (Bootstrap Icons) - I used icons to visually enhance the website and improve user experience and readability.
+
+Container and grid classes - I used  Bootstrap’s container and grid system for a responsive layout.
+
+Alt attributes for images - I included descriptive alt tags for images (e.g., logo, privacy image) which is great for accessibility.
+
+Consistent class naming - I used utility classes like mt-5, pt-4, border-bottom consistently for spacing and borders, which keeps styling clean and concise.
+
+Separate CSS and JS files - I linked the page  to style.css and script.js for modularity.
+
+Footer links -  Including privacy and contact links in the footer for a more easy navigation.
+
+### Optimisation I made for the jobs page  
+What I optimized :
+
+Use CSS Utility Classes Efficiently - I used multiple mb-0 on list groups inside accordion bodies. 
+
+Consistent Use of Icons - I used Bootstrap Icons (bi bi-check-lg, bi bi-dot, etc.) consistently to make sure the icons match the text meaning for better UX.
+
+Semantic HTML for Lists - I used <ul> and <li> correctly to ensure lists have meaningful content and use classes only for styling.
+
+Schedule Section - I have schedule info outside the accordion, which is great for visibility. 
+
+Button and link consistency - I added a main call-to-action at the bottom to "Fill Out Our Online Application Form"
+
+
+
 ##  Strengths and areas of  improvement
 
 ### Strengths of the website :
