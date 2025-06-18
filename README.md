@@ -480,7 +480,7 @@ The only thing I changed in my optimised version of the website is  the layout i
 
 #### Structure and accessibility 
 Before the home page code had multiple <nav> and <section> tags without a consistent hierarchy. This means it lacked the  proper use of aria attributes and labels.
-This is part of my optimization. In the code I tried to implement a clearer and more semantic HTML5 structure  with  <header>, <main>, <section>, <footer>. tags.
+This is part of my optimization. In the code I tried to implement a clearer and more semantic HTML5 structure  with  "<header>, <main>, <section>, <footer>" tags.
 Additionally I also have improved the  form accessibility with proper label, aria-*, and required fields.
 Furthermore I added the viewport meta tag for a better  responsiveness:
 
@@ -534,6 +534,7 @@ Consistent use of utility classes-  You use Bootstrap spacing and text utility c
 Accessibility enhancements - I used ARIA roles and attributes (e.g., aria-current, aria-label, modal roles) in order to improve accessibility for screen readers.
 
 ### Optimisation I made for the contact page  
+
 What I optimized :
 
 Modern, responsive bootstrap navbar - I used Bootstrap’s built-in responsive navbar with toggler button and collapse for mobile views. I added meaningful ARIA attributes for accessibility (aria-controls, aria-expanded, aria-label).
@@ -555,6 +556,7 @@ Consistent footer design - after the optimisation the footer is visually separat
 Performance and accessibility - I added preconnect hints for Google Fonts to optimize the font loading speed.  I properly used semantic HTML elements such as (header, main, section, footer). I also made some accessibility improvements in form and navbar (labels, ARIA).
 
 ### Optimisation I made for the privacy page  
+
 What I optimized :
 
 Use of Bootstrap CDN -  I have loaded Bootstrap CSS and JS from a CDN in order to have faster loading and caching.
@@ -578,6 +580,7 @@ Separate CSS and JS files - I linked the page  to style.css and script.js for mo
 Footer links -  Including privacy and contact links in the footer for a more easy navigation.
 
 ### Optimisation I made for the jobs page  
+
 What I optimized :
 
 Use CSS Utility Classes Efficiently - I used multiple mb-0 on list groups inside accordion bodies. 
