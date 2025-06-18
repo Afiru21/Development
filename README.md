@@ -513,7 +513,7 @@ After the optimisation it has now a well-structured and styled footer, I also in
 ### Optimisation I made for the about page  
 These are the optimizations I made on the About page code:
 
-Semantic HTML5 structure - I used meaningful HTML5 elements like <header>, <main>, <section>, and <footer>, to improve accessibility and SEO.
+Semantic HTML5 structure - I used meaningful HTML5 elements like header, main, section, and footer, to improve accessibility and SEO.
 
 Bootstrap CDN and responsive design - I usedU Bootstrap 5.3 via CDN to ensure a fast-loading framework with responsive grid classes (container, row, col-lg-6, etc.) that adapt well across different devices.
 
