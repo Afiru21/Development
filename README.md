@@ -588,12 +588,11 @@ Use CSS Utility Classes Efficiently - I used multiple mb-0 on list groups inside
 
 Consistent Use of Icons - I used Bootstrap Icons (bi bi-check-lg, bi bi-dot, etc.) consistently to make sure the icons match the text meaning for better UX.
 
-Semantic HTML for Lists - I used <ul> and <li> correctly to ensure lists have meaningful content and use classes only for styling.
+Semantic HTML for Lists - I used ul and li correctly to ensure lists have meaningful content and use classes only for styling.
 
 Schedule Section - I have schedule info outside the accordion, which is great for visibility. 
 
 Button and link consistency - I added a main call-to-action at the bottom to "Fill Out Our Online Application Form"
-
 
 
 ##  Strengths and areas of  improvement
