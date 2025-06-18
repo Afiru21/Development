@@ -100,7 +100,7 @@ Contact us page wireframe
 ![ContactUs](https://github.com/user-attachments/assets/66c73b56-7931-44e6-ab7e-9758cdaeeaa2)
 
 
-I used Figma  to help me create these viusual mockup designs for the website  pages.
+I used Figma  to help me create these visual mockup designs for the website  pages.
 
 Home page mockup 
 
@@ -161,6 +161,8 @@ For the body text on the other way I am planning to utilise the font “Open San
 
 ## Alternative design options
 The alternative design option I come up for the website  is having a more minimalist design,which means  relying  mostly on large images and very short phrases and text. 
+
+I used Figma  to help me create these alternative visual mockup designs for the website  pages.
 
 home page
 
