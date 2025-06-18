@@ -3,6 +3,11 @@ body {
     color: #FFFFFF;
     
   }
+
+body {
+  background-color: #5d7e63;
+}
+
   
   .navbar {
     display: flex;
