@@ -563,7 +563,7 @@ Use of Bootstrap CDN -  I have loaded Bootstrap CSS and JS from a CDN in order t
 
 Preconnect for Google Fonts - I used <link rel="preconnect"> to optimize the font loading performance.
 
-Semantic HTML structure - I clearly  used  <header>, <main>, <section>, <footer> and proper headings <h1>, <h2>, <h3>. This will  improve accessibility and SEO.
+Semantic HTML structure - I clearly  used  <header>, <main>, <section>, <footer> and proper headings h1, h2, h3. This will  improve accessibility and SEO.
 
 Responsive navigation - The Bootstrap navbar toggler with collapse for mobile-friendly navigation is implemented correctly.
 
@@ -578,6 +578,7 @@ Consistent class naming - I used utility classes like mt-5, pt-4, border-bottom 
 Separate CSS and JS files - I linked the page  to style.css and script.js for modularity.
 
 Footer links -  Including privacy and contact links in the footer for a more easy navigation.
+
 
 ### Optimisation I made for the jobs page  
 
